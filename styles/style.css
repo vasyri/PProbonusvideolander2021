@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Helvetica Neue LT Pro";
-  src: url("/fonts/HelveticaNeueLTStd-BdCn.otf") format("otf");
+  src: url("fonts/HelveticaNeueLTStd-BdCn.otf") format("otf");
   font-weight: 700;
   font-display: swap;
 }
@@ -375,11 +375,6 @@ img {
   .guarantee__drawoutline {
     padding: 84px 26px 20px;
   }
-}
-@media screen and (max-width: 640px) {
-  /* .order__cta {
-    bottom: -47%;
-  } */
 }
 @media screen and (max-width: 600px) {
   body,
